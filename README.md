@@ -4,10 +4,9 @@ Solution to the Roman Numerals Kata in C++14
 
 ## How to build tests
 
-    mkdir build
+    mkdir -p build
     cd build
     cmake ..
-    cd ../build
     make all
 
 ## How to run tests
